@@ -1,0 +1,25 @@
+{
+  "name": "pe-tracker",
+  "version": "1.0.0",
+  "description": "This shows that our integration with Pivotal Tracker works.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mruf11/XPE_Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mruf11/XPE_Tracker/issues"
+  },
+  "homepage": "https://github.com/mruf11/XPE_Tracker#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "pg": "^8.7.3"
+  }
+}
